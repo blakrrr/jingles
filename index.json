@@ -8,6 +8,10 @@
     {
       "game": "Deltarune",
       "file": "jingles/deltarune2.ogg"
+    },
+    {
+      "game": "Alien Hominid",
+      "file": "jingles/alienHominid1.ogg"
     }
   ]
 }
