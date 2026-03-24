@@ -2,12 +2,12 @@
   "name": "Example Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Deltarune",
+      "file": "jingles/deltarune1.ogg"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Deltarune",
+      "file": "jingles/deltarune2.ogg"
     }
   ]
 }
