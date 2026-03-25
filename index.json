@@ -12,6 +12,10 @@
     {
       "game": "Alien Hominid",
       "file": "jingles/alienHominid1.ogg"
+    },
+    {
+      "game": "Poker Night at the Inventory",
+      "file": "jingles/pokerNight1.ogg"
     }
   ]
 }
