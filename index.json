@@ -24,6 +24,18 @@
     {
       "game": "Mewgenics",
       "file": "jingles/mewgenics1.ogg"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "file": "jingles/isaac1.ogg"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "file": "jingles/isaac2.ogg"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "file": "jingles/isaac3.ogg"
     }
   ]
 }
