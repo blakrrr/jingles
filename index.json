@@ -40,6 +40,14 @@
     {
       "game": "The New Flesh",
       "file": "jingles/theNewFlesh.ogg"
+    },
+    {
+      "game": "Psuedoregalia",
+      "file": "jingles/psuedoregalia1.ogg"
+    },
+    {
+      "game": "Psuedoregalia",
+      "file": "jingles/psuedoregalia2.ogg"
     }
   ]
 }
