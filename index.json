@@ -36,6 +36,10 @@
     {
       "game": "The Binding of Isaac: Rebirth",
       "file": "jingles/isaac3.ogg"
+    },
+    {
+      "game": "The New Flesh",
+      "file": "jingles/theNewFlesh.ogg"
     }
   ]
 }
